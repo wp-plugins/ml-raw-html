@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== ML Raw HTML ===
 Contributors: masterleep
 Tags: code, javascript, html, posts
 Requires at least: 3.0
@@ -75,6 +75,9 @@ To install the plugin:
 1. Activate the plugin in the WordPress dashboard.
 
 == Changelog ==
+
+= 1.0.1 =
+* Readme had wrong plugin name.
 
 = 1.0 =
 * First usable version.
