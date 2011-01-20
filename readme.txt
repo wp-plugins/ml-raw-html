@@ -3,7 +3,7 @@ Contributors: masterleep
 Tags: code, javascript, html, posts
 Requires at least: 3.0
 Tested up to: 3.0.4
-Stable tag: trunk
+Stable tag: 1.0.1
 
 Simple, efficient, and flexible raw html support via shortcodes.
 
